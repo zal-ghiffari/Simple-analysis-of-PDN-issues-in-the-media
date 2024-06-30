@@ -35,3 +35,5 @@ Penulis memetakan sejumlah 244 media dari 940 pemberitaan dan beberapa aktor dia
   - Variable -> 7
   - Data type -> Online News
   - Row -> 940
+
+Mohon maaf apabila terdapat kesalahan dalam analisis dan penulisan. Sekian, Thanks :)
