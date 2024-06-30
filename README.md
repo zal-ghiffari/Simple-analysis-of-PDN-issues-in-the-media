@@ -37,3 +37,7 @@ Penulis memetakan sejumlah 244 media dari 940 pemberitaan dan beberapa aktor dia
   - Row -> 940
 
 Mohon maaf apabila terdapat kesalahan dalam analisis dan penulisan. Sekian, Thanks :)
+
+## Lampiran (report)
+![Analisis Intro](https://github.com/zal-ghiffari/Simple-analysis-of-PDN-issues-in-the-media/blob/main/analisis2.png?raw=true)
+![Analisis Distributed](https://github.com/zal-ghiffari/Simple-analysis-of-PDN-issues-in-the-media/blob/main/analisis1.png?raw=true)
