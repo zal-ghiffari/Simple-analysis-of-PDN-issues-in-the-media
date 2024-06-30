@@ -1,15 +1,17 @@
 # Simple analysis of PDN issues in the media
 Overview A simple analysis of Media tendencies towards PDN Hacking cases
 
-Selayang pandang
+## Selayang pandang
+
 Sebuah analisis sederhana tentang kecenderungan Media terhadap kasus Peretasan PDN
 
 Pusat data nasional atau PDN telah diserang oleh peretas dengan ransomeware berjenis Lockbit. Tentu hal tersebut menyita perhatian media publik di indonesia, pasalnya serangan tersebut mengakibatkan beberapa sistem layanan pada pemerintahan yang dimanfaatkan masyarakat menjadi terganggu bahkan hingga lumpuh.
 Media indonesia berbondong-bondong mengeluarkan pemberitaan terbaru terkait insiden tersebut. Insiden tersebut telah menuai pro dan kontra tentunya terjadi juga pada beberapa pihak media yang cenderung memihak kepada salah satu aktor pada insiden ini.
 Penulis memetakan sejumlah 244 media dari 940 pemberitaan dan beberapa aktor diantaranya Kominfo, BSSN, dan Telkom yang sedang ramai menjadi perbincangan dan bahkan kritikan pedas terlempar kepada pihak tersebut. Dari hasil analisis penulis berhasil memetakan sebagai berikut : 
 
-Disclaimer : Pendeteksian nada berita menggunakan Machine Learning, yang berarti bisa saja terdapat klasifikasi yang error
-Note : Penulis meklasifikasikan menjadi dua pihak antara pro dan kontra. Pro adalah pemberitaan bernada positif dan kontra adalah pemberitaan bernada negatif.
+**Disclaimer : Pendeteksian nada berita menggunakan Machine Learning, yang berarti bisa saja terdapat klasifikasi yang error**
+
+*Note : Penulis meklasifikasikan menjadi dua pihak antara pro dan kontra. Pro adalah pemberitaan bernada positif dan kontra adalah pemberitaan bernada negatif.*
   
 1. Kominfo
   - Pro, terdapat 91 pemberitaan dari 66 media dengan top 3 : infokomputer (4), headtopics (3), jawapos (3). Contoh pemberitaan "Ganguan PDN, Kominfo Pastikan Sebagian Layanan Keimigrasian Sudah Pulih" (Headtopics)
@@ -23,12 +25,12 @@ Note : Penulis meklasifikasikan menjadi dua pihak antara pro dan kontra. Pro ada
 4. Netral : 
   - Terdapat 321 pemberitaan dari 133 media.
 
-Summary : 
+**Summary :**
   - Media lebih cenderung Netral dalam menyikapi isu tentang PDNS
   - Kominfo memiliki kecendrungan media yang tinggi pada pro dan kontra
   - Telkom menjadi yang paling sedikit disinggung pada media pemberitaan
 
-Metadata : 
+**Metadata :**
   - Date -> 20/6/2024 - 30/06/2024
   - Variable -> 7
   - Data type -> Online News
